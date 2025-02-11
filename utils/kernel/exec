@@ -1,7 +1,0 @@
-#!/bin/bash
-FILE=bin/kernel
-make clean
-make
-if test -f "./$FILE"; then
-    ./$FILE $@
-fi
