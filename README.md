@@ -1,3 +1,10 @@
+# Integrantes 
+Elias Lischinsky
+Belen Romeo
+Gonzalo Rodriguez
+Gianluca Bolocco
+Hoyoung Kil
+
 # tp-scaffold
 
 Esta es una plantilla de proyecto diseñada para generar un TP de Sistemas
