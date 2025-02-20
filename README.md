@@ -1,9 +1,14 @@
 # Integrantes 
 Elias Lischinsky
+
 Belen Romeo
+
 Gonzalo Rodriguez
+
 Gianluca Bolocco
+
 Hoyoung Kil
+
 
 # tp-scaffold
 
